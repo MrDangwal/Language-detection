@@ -1,6 +1,4 @@
 # Language-detection
-Certainly, here's an expanded version of the README description:
-
 # Language Detection for Large Files using XLM-RoBERTa Model
 
 ## Overview
